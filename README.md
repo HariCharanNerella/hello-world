@@ -1,3 +1,1 @@
-# hello-world
-just a hello world repository
-this is nothing but a new repository to tell a noboddy nothing
+This is a new branch of the hello-world repository!
